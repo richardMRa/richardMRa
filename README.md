@@ -1,6 +1,6 @@
 ## Junior Developer
 ### Current Skills
-- https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+- <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <!---
 richardMRa/richardMRa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
