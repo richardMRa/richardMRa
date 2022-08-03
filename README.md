@@ -16,7 +16,7 @@ Junior "Full Stack" developer, currently part time studying at Digital House, he
 ### Contact
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> <br> richardandres002@gmail.com <br>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> <br> 
-<a href="https://www.linkedin.com/in/richard-mora/" target="_blank"> ir
+<a href="https://www.linkedin.com/in/richard-mora/" target="_blank"> Richard Mora
 </a> <br>
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> <br> richardMR#8552
 
