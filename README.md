@@ -1,4 +1,4 @@
-## Junior Developer
+## Junior Web Developer
 Junior "Full Stack" developer, currently part time studying at Digital House, here I'll try to upload the stuff I code.
 ### Current Skills
 
